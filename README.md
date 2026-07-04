@@ -4,7 +4,7 @@ A Machine Learning web application that predicts the species of an Iris flower b
 
 ## 🚀 Live Demo
 
-[🔗 Add your Streamlit app link here](https://iris-flower-classification-fwacuqdcdcbynajv2z9xpu.streamlit.app/)
+🔗 https://iris-flower-classification-fwacuqdcdcbynajv2z9xpu.streamlit.app/
 
 ## 📌 About the Project
 
